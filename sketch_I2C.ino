@@ -4,9 +4,9 @@
 // for Examples
 byte byteSC;
 byte byteADR;
-byte byteREG[1];
-byte byteWRITE[15];
-byte byteREAD[15];
+byte byteREG[2];
+byte byteWRITE[16];
+byte byteREAD[16];
 
 int led = 13;
 int i;
